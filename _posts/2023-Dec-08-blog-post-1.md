@@ -29,3 +29,5 @@ Later, I discovered that connecting GitHub and GitHub Desktop is a much smoother
 4. Then, you can just use RStudio normally but commit, push, and pull using GitHub Desktop.
 Here is the recommended tutorial that you navigate the Github destop:
 * [Git, GitHub, & GitHub Desktop for beginners](https://www.youtube.com/watch?v=8Dd7KRpKeaE)
+
+If you are interested in Designing a Reproducible Workflow with R and GitHub, check out this [video](https://www.youtube.com/watch?v=Cn-72tbRNFc).
