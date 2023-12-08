@@ -1,6 +1,6 @@
 ---
 title: "Net Impact of COVID-19 on REIT Returns"
-collection: research
+collection: publications
 permalink: /research/2023-08-12-Net-Impactof-COVID19-on-REITS
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2022-08-12
