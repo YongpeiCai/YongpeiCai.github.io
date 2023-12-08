@@ -1,11 +1,9 @@
 ---
 title: 'Resources I Used to Create My First Academic Website'
 date: 2023-12-08
-permalink: /posts\2023-Dec-08-blog-post-1\
+permalink: /posts/2023-Dec-08-blog-post-1/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - Academic Webpage
 ---
 
 There have been a dizzy array of guides out there about how to construct an academic webpage. If you're already cozy with RStudio and RMarkdown, one popular route is to use `blogdown`. One of the highly-recommended tutorials is Allison Hill's blog post, ["Up&Running with Blogdown in 2021"](https://www.apreshill.com/blog/2020-12-new-year-new-blogdown/). You might run into a couple of bumps, especially with all the Git-related stuff. Personally, I found solutions either in ["Happy Git with R"](https://happygitwithr.com/) by Jenny Bryan et al or just by doing some google internet searches. 
