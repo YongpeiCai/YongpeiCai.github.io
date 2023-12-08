@@ -1,0 +1,29 @@
+---
+title: 'Resources I Used to Create My First Academic Website'
+date: 2023-12-08
+permalink: /posts\2023-Dec-08-blog-post-1
+tags:
+  - cool posts
+  - category1
+  - category2
+---
+
+There have been a dizzy array of guides out there about how to construct an academic webpage. If you're already cozy with RStudio and RMarkdown, one popular route is to use `blogdown`. One of the highly-recommended tutorials is Allison Hill's blog post, ["Up&Running with Blogdown in 2021"](https://www.apreshill.com/blog/2020-12-new-year-new-blogdown/). You might run into a couple of bumps, especially with all the Git-related stuff. Personally, I found solutions either in ["Happy Git with R"](https://happygitwithr.com/) by Jenny Bryan et al or just by doing some google internet searches. 
+
+If you don't like reading, here some useful YouTube videos I came cross online:
+
+* [Best R Hugo Blogdown Site End to End Tutorial](https://www.youtube.com/watch?v=9Jqvaoeh1W4) by [CradleToGraveR](https://www.youtube.com/@CradleToGraveR)
+* [Introduce yourself online using blogdown and Hugo Apèro](https://www.youtube.com/watch?v=RksaNh5Ywbo) by Alison Hill
+
+Yet another straightforward method to set up an academic website is by creating a repository from a template you discover on GitHub. However, I found one of the most popular route is to the fork the repository from https://github.com/academicpages/academicpages.github.io since the option of creating repo from a template is not available. Creating a repository from a template is similar to forking a repository, but there are important differences that you should be aware of. [GitHub Doc](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) explains the differences between the two:
+* A new fork includes the entire commit history of the parent repository, while a repository created from a template starts with a single commit.
+* Commits to a fork don't appear in your contributions graph, while commits to a repository created from a template do appear in your contribution graph.
+* A fork can be a temporary way to contribute code to an existing project, while creating a repository from a template starts a new project quickly.
+
+Later, I discovered that connecting GitHub and GitHub Desktop is a much smoother experience. In RStudio, troubleshooting was a bit tricky, especially when dealing with issues like pushing a committed file that's too large. GitHub Desktop, on the other hand, provides a more intuitive way to handle such situations. Plus, it's straightforward to access the GitHub repo page directly through GitHub Desktop. Here is the most effective workflow summarized by Shinichi Nakagawa in his [post](https://www.i-deel.org/blog/using-github-desktop-to-work-with-rstudio-and-github):
+1. Create a GitHub repo on the GitHub webpage (my profile page).
+2. Clone the repo my computer using GitHub Desktop to create a local folder (note that you need to log in GitHub Desktop using your GitHub username and password).
+3. Open a RStudio project using this local folder.
+4. Then, you can just use RStudio normally but commit, push, and pull using GitHub Desktop.
+
+* [Git, GitHub, & GitHub Desktop for beginners](https://www.youtube.com/watch?v=8Dd7KRpKeaE)
