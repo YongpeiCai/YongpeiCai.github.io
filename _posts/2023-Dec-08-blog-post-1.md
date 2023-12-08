@@ -1,7 +1,7 @@
 ---
 title: 'Resources I Used to Create My First Academic Website'
 date: 2023-12-08
-permalink: /posts/2023-Dec-08-blog-post-1/
+permalink: /posts/2023-Dec-08-blog-post-1
 tags:
   - Academic Webpage
 ---
@@ -17,11 +17,15 @@ Yet another straightforward method to set up an academic website is by creating 
 * A new fork includes the entire commit history of the parent repository, while a repository created from a template starts with a single commit.
 * Commits to a fork don't appear in your contributions graph, while commits to a repository created from a template do appear in your contribution graph.
 * A fork can be a temporary way to contribute code to an existing project, while creating a repository from a template starts a new project quickly.
+Here is the list of tutorial videos for this approach
+* [How to make a personal website with github pages](https://www.youtube.com/watch?v=qZsgPgGdOzQ) by 
+Kathryn Schuler
+
 
 Later, I discovered that connecting GitHub and GitHub Desktop is a much smoother experience. In RStudio, troubleshooting was a bit tricky, especially when dealing with issues like pushing a committed file that's too large. GitHub Desktop, on the other hand, provides a more intuitive way to handle such situations. Plus, it's straightforward to access the GitHub repo page directly through GitHub Desktop. Here is the most effective workflow summarized by Shinichi Nakagawa in his [post](https://www.i-deel.org/blog/using-github-desktop-to-work-with-rstudio-and-github):
 1. Create a GitHub repo on the GitHub webpage (my profile page).
 2. Clone the repo my computer using GitHub Desktop to create a local folder (note that you need to log in GitHub Desktop using your GitHub username and password).
 3. Open a RStudio project using this local folder.
 4. Then, you can just use RStudio normally but commit, push, and pull using GitHub Desktop.
-
+Here is the recommended tutorial that you navigate the Github destop:
 * [Git, GitHub, & GitHub Desktop for beginners](https://www.youtube.com/watch?v=8Dd7KRpKeaE)
