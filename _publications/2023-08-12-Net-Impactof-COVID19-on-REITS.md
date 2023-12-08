@@ -1,7 +1,7 @@
 ---
 title: "Net Impact of COVID-19 on REIT Returns"
 collection: publications
-permalink: /research\2023-08-12-Net-Impactof-COVID19-on-REITS
+permalink: /research\2023-08-12-Net-Impactof-COVID19-on-REITS.pdf
 date: 2022-08-12
 venue: 'Journal of Risk and Financial Management'
 paperurl: 'https://doi.org/10.3390/jrfm15080359'
