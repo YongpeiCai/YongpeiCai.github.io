@@ -1,7 +1,7 @@
 ---
 title: 'Resources I Used to Create My First Academic Website'
 date: 2023-12-08
-permalink: /posts/2023-Dec-08-blog-post-1
+permalink: /posts/2012/08/blog-post-1/
 tags:
   - Academic Webpage
 ---
