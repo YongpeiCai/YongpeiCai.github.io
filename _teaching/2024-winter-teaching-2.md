@@ -23,11 +23,11 @@ location: "Halifax, Canada"
 
 |Topics | Relevant Chapters |
 | :---------------- | :------: |
-|Present Value Relation; Asset Pricing under Certainty; Fixed Income Securities| LEC Ch5; CWS Ch1, Ch2|
-|Utility Theory under Uncertainty; Risk & Risk Aversion; Stochastic Dominance |LEC Ch1; DD Ch3, Ch4; |
-|Mordern Portfolio Theory |LEC Ch3; LD Ch6|
-|Capital Asset Pricing Model (CAPM) |LD Ch7; LEC Ch4; DD Ch8|
-|Factor Models and APT|LD Ch8; LEC Ch4; DD Ch8|
+|Present Value Relation; Asset Pricing under Certainty; Fixed Income Securities| CWS Ch1-2; LEC Ch5|
+|Utility Theory under Uncertainty; Risk & Risk Aversion; Stochastic Dominance |LEC Ch1; DD Ch3-4|
+|Mordern Portfolio Theory |LEC Ch3; LD Ch6; Bodie Ch5-6|
+|Capital Asset Pricing Model (CAPM) |LEC Ch4; DD Ch8; Bodie Ch7; LD Ch7|
+|Factor Models and APT|Bodie Ch8 and Ch11; LEC Ch4; DD Ch8|
 
 ## Codes
 - [Big Book of R](https://www.bigbookofr.com/)
